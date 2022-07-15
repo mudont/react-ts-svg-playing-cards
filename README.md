@@ -2,10 +2,13 @@
 
 A simple react component that renders svg playing cards by Adrian Kennard. Cards downloaded from https://www.me.uk/cards/ and distributed under CC0 license.
 
+## Credits
+
 [svg2react](https://www.npmjs.com/package/svg2react) used to create React components
 
 This package is similar to [heruka-urgyen/react-playing-cards](https://github.com/heruka-urgyen/react-playing-cards). I discovered this package after I had rolled my own.
 
+Used [this tutorial by Rupert 'fildon' McKay](https://blog.fildon.me/publishing-typescript-react-components-to-npm) to create npm package
 
 Differences are
 - We have Joker cards
